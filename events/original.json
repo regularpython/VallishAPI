@@ -1,0 +1,88 @@
+{
+  "resource": "/Vallish1234",
+  "path": "/Vallish1234",
+  "httpMethod": "GET",
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "accept-language": "en-US,en;q=0.9",
+    "Host": "3nqt2xa36e.execute-api.us-east-1.amazonaws.com",
+    "priority": "u=0, i",
+    "sec-ch-ua": "\"Chromium\";v=\"134\", \"Not:A-Brand\";v=\"24\", \"Google Chrome\";v=\"134\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "cross-site",
+    "sec-fetch-user": "?1",
+    "upgrade-insecure-requests": "1",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+    "X-Amzn-Trace-Id": "Root=1-67e4b31d-09fe6b85043636d810414fba",
+    "X-Forwarded-For": "27.116.19.230",
+    "X-Forwarded-Port": "443",
+    "X-Forwarded-Proto": "https"
+  },
+  "multiValueHeaders": {
+    "accept": [
+      "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+    ],
+    "accept-encoding": ["gzip, deflate, br, zstd"],
+    "accept-language": ["en-US,en;q=0.9"],
+    "Host": ["3nqt2xa36e.execute-api.us-east-1.amazonaws.com"],
+    "priority": ["u=0, i"],
+    "sec-ch-ua": [
+      "\"Chromium\";v=\"134\", \"Not:A-Brand\";v=\"24\", \"Google Chrome\";v=\"134\""
+    ],
+    "sec-ch-ua-mobile": ["?0"],
+    "sec-ch-ua-platform": ["\"Windows\""],
+    "sec-fetch-dest": ["document"],
+    "sec-fetch-mode": ["navigate"],
+    "sec-fetch-site": ["cross-site"],
+    "sec-fetch-user": ["?1"],
+    "upgrade-insecure-requests": ["1"],
+    "User-Agent": [
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    ],
+    "X-Amzn-Trace-Id": ["Root=1-67e4b31d-09fe6b85043636d810414fba"],
+    "X-Forwarded-For": ["27.116.19.230"],
+    "X-Forwarded-Port": ["443"],
+    "X-Forwarded-Proto": ["https"]
+  },
+  "queryStringParameters": null,
+  "multiValueQueryStringParameters": null,
+  "pathParameters": null,
+  "stageVariables": null,
+  "requestContext": {
+    "resourceId": "ogt5i2",
+    "resourcePath": "/Vallish1234",
+    "httpMethod": "GET",
+    "extendedRequestId": "IEDssEaQIAMErLg=",
+    "requestTime": "27/Mar/2025:02:08:29 +0000",
+    "path": "/default/Vallish1234",
+    "accountId": "339713066136",
+    "protocol": "HTTP/1.1",
+    "stage": "default",
+    "domainPrefix": "3nqt2xa36e",
+    "requestTimeEpoch": 1743041309676,
+    "requestId": "f597e8da-d88c-4545-82b1-51a5832181cf",
+    "identity": {
+      "cognitoIdentityPoolId": null,
+      "accountId": null,
+      "cognitoIdentityId": null,
+      "caller": null,
+      "sourceIp": "27.116.19.230",
+      "principalOrgId": null,
+      "accessKey": null,
+      "cognitoAuthenticationType": null,
+      "cognitoAuthenticationProvider": null,
+      "userArn": null,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+      "user": null
+    },
+    "domainName": "3nqt2xa36e.execute-api.us-east-1.amazonaws.com",
+    "deploymentId": "3eex2x",
+    "apiId": "3nqt2xa36e"
+  },
+  "body": null,
+  "isBase64Encoded": false
+}
