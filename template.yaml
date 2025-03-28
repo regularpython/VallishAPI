@@ -19,16 +19,19 @@ Resources:
       Runtime: python3.11
       Architectures:
         - x86_64
+      Layers:
+        - arn:aws:lambda:us-east-1:339713066136:layer:RegularPythonAPIModules:1
+        - arn:aws:lambda:us-east-1:339713066136:layer:APITelugu:1
       Events:
         AllUserDetails:
           Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
           Properties:
-            Path: /get-all-users
+            Path: /user/get-all-users
             Method: get
         UserDetails:
           Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
           Properties:
-            Path: /get-user-details
+            Path: /user/get-user-details
             Method: get
 
 Outputs:

@@ -1,6 +1,6 @@
 {
-  "resource": "/get-all-users",
-  "path": "/get-all-users",
+  "resource": "/get-details",
+  "path": "/get-details",
   "httpMethod": "GET"
 }
 

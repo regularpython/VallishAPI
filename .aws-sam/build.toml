@@ -5,6 +5,7 @@ codeuri = "C:\\Users\\Bhavani_Sai\\PycharmProjects\\RegularPythonProjects\\Valli
 runtime = "python3.11"
 architecture = "x86_64"
 handler = "src.app.lambda_handler"
+source_hash = "c529daecaf15a23814b178b0a8772a9e0c0f97f528f3a105505cef5797b06710"
 manifest_hash = ""
 packagetype = "Zip"
 functions = ["HelloWorldFunction"]
