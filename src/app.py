@@ -4,6 +4,7 @@ import json
 def lambda_handler(event, context):
     print('Hi Vallish')
     print('Latest code')
+    print('Hi')
     endpoint = event['path']
     if endpoint == '/get-all-users':
         # Implement your logic
